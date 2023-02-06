@@ -1,2 +1,3 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# [Twitter to end free access to its API](https://techcrunch.com/2023/02/01/twitter-to-end-free-access-to-its-api/)
+
+It's a little worrying how quickly a big API that many people use, from researchers to big firms, can be shut down and locked behind a paywall. It also brings into question why many services also have free API access. Is it because they think the value that third party services provide is greater than the cost of providing API access to the internet? In either case, it is interesting that Twitter now believes that locking API access behind a $1,000 per month paywall will continue to garner them a greater amount of utility than the free access implementation. There's also the case if there are any firms at all that have their livelihood staked on Twitter's free API base that aren't already on a paid tier, and how they would adapt to this change, not to mention the amount of small projects that benefit many that rely on this free tier.
